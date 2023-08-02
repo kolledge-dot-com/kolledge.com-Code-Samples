@@ -1,3 +1,5 @@
+# Introduction to Python programming
+
 ## What is Python programming language: ## 
 Python is a widely-used, high-level programming language known for its simplicity and readability. Created by Guido van Rossum in the late 1980s, Python emphasizes code readability and enables developers to express concepts in fewer lines of code than other languages. Its versatility and extensive library support make it a preferred choice for various applications, including web development, data analysis, artificial intelligence, and automation.
 
@@ -14,7 +16,7 @@ Python's popularity stems from its robust feature set, including dynamic typing,
 Installing Python on your computer is a straightforward process. First, visit the official Python website, where you can download the latest stable release. Choose the appropriate installer for your operating system and follow the installation wizard's instructions. Once installed, you can run Python scripts through the command line or use Integrated Development Environments (IDEs) to write and execute Python code efficiently.
 
 ## Our First Program - "Hello World" in Python: ## 
-The classic "Hello World" program serves as a simple introduction to Python's syntax and execution. To print "Hello World" on the screen, open a text editor and write `print("Hello World")`. Save the file with a .py extension, like hello.py. Then, open a terminal or command prompt, navigate to the file's location, and run `python hello.py`. Voilà! You've executed your first Python program. The tutorial <a href=""></a> explains the code sample given above for this section in detail.
+The classic "Hello World" program serves as a simple introduction to Python's syntax and execution. To print "Hello World" on the screen, open a text editor and write `print("Hello World")`. Save the file with a .py extension, like hello.py. Then, open a terminal or command prompt, navigate to the file's location, and run `python hello.py`. Voilà! You've executed your first Python program. The tutorial <a href="https://www.kolledge.com/python/tutorial/hello-world-in-python">Hello world in python</a> explains the code sample given above for this section in detail.
 
 ## Top IDEs for Python Programming Language: ## 
 Python developers have a variety of Integrated Development Environments (IDEs) to choose from, each offering distinct features to enhance productivity. Popular choices include PyCharm, known for its powerful code analysis and debugging tools; Visual Studio Code, a lightweight and customizable option with an extensive extension ecosystem; and Jupyter Notebook, widely used for data analysis and scientific computing, providing an interactive environment to experiment with code and visualizations. Selecting the right IDE depends on your specific needs and coding preferences.

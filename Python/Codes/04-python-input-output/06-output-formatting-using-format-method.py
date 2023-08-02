@@ -1,0 +1,1 @@
+print('Hello!! {0} of {1}'.format('Scholars', 'Kolledge'))

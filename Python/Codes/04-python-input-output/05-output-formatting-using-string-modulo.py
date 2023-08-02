@@ -1,0 +1,1 @@
+print("%d %s weigh %.2f Pounds" % (10, "apples", 2.567))
